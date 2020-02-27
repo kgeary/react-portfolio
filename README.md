@@ -1,11 +1,16 @@
-# portfolio
-A site to demonstrate some of the projects I have worked on built using React
+# Kevin Geary
+## Developer Portfolio
+A react site to demonstrate some of the projects I have worked on and built using the MERN stack
 
-# Featuring:
+### Featuring:
 * About Me
 * Project Portfolio
 * Contact Page
 
-# Visit the page
-[React Portfolio @ kgeary.github.io](https://kgeary.github.io/react-portfolio)
+## Visit the page
+[Portfolio @ kgeary.github.io](https://kgeary.github.io/)
+
+## Check out the repository
+[Portfolio @ kgeary.github.io](https://www.github.com/kgeary/react-portfolio)
+
 

@@ -12,10 +12,10 @@ function Nav() {
               <NavLink className="nav-link" to="/about" activeClassName="active">About</NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link" to="/contact" activeClassName="active">Contact</NavLink>
+              <NavLink className="nav-link" to="/portfolio" activeClassName="active">Portfolio</NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link" to="/portfolio" activeClassName="active">Portfolio</NavLink>
+              <NavLink className="nav-link" to="/contact" activeClassName="active">Contact</NavLink>
             </li>
           </ul>
         </div>
