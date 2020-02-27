@@ -7,5 +7,5 @@ A site to demonstrate some of the projects I have worked on built using React
 * Contact Page
 
 # Visit the page
-[Portfolio @ kgeary.github.io](https://kgeary.github.io/)
+[React Portfolio @ kgeary.github.io](https://kgeary.github.io/react-portfolio)
 
