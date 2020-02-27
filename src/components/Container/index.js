@@ -2,7 +2,8 @@ import React from "react";
 
 function Container(props) {
 
-  let className = "container flex-fill mt-3 px-0";
+  let className = props.fluid ? "container-fluid" : "container";
+  className += " flex-fill mt-3 px-0";
 
   if (props.className) {
     className += " " + props.className;

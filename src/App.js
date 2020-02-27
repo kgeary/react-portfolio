@@ -6,6 +6,7 @@ import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
 import Footer from "./components/Footer";
 import "./App.css";
+import NoMatch from "./pages/NoMatch";
 
 function App() {
 
@@ -24,6 +25,9 @@ function App() {
         </Route>
         <Route path="/portfolio">
           <Portfolio />
+        </Route>
+        <Route path="*">
+          <NoMatch />
         </Route>
       </Switch>
       <Footer />
