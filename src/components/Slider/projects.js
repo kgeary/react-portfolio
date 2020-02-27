@@ -55,7 +55,7 @@ const projects = [
   },
   {
     link: "react-directory",
-    title: "React",
+    title: "Employee Directory",
     tags: "React",
     img: "images/place10.jpg"
   }
