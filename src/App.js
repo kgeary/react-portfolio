@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Switch, Route, Redirect } from "react-router-dom";
+import { HashRouter, Switch, Route, Redirect } from "react-router-dom";
 import Nav from "./components/Nav";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
@@ -10,7 +10,7 @@ import "./App.css";
 function App() {
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Nav />
       <Switch>
         <Route exact path="/">
@@ -27,7 +27,7 @@ function App() {
         </Route>
       </Switch>
       <Footer />
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
